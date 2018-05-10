@@ -4,4 +4,6 @@
 \BOOKMARK [3][-]{subsubsection.2.1.1}{Per-Unit One-Line Model}{subsection.2.1}% 4
 \BOOKMARK [2][-]{subsection.2.2}{Compute All Bus Voltages}{section.2}% 5
 \BOOKMARK [3][-]{subsubsection.2.2.1}{Newton-Raphson Method}{subsection.2.2}% 6
-\BOOKMARK [1][-]{section.3}{Conclusions}{}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Compute All Power Values}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Compute Line Losses}{subsection.2.3}% 8
+\BOOKMARK [1][-]{section.3}{Conclusions}{}% 9

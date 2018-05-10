@@ -420,11 +420,36 @@
             \centerline{\includegraphics[scale=0.3]{images/PowerWorldTable9}}
             \caption{PowerWorld Diagram}
         \end{figure}
+<<<<<<< HEAD
     
         % \subsection{Compute All Power Values}
+=======
+        \subsection{Compute All Power Values}
+>>>>>>> Line losses added in
         % \subsubsection{Compute Power Flow on Each Line (In/Out)}
 
-        % \subsubsection{Compute Line Losses}
+        \subsubsection{Compute Line Losses}
+        $$P_{loss}=\frac{P^2R}{V^2}$$
+
+        @L1
+        $$Z=1.2+j7.5\Omega$$
+        $$P_{loss}=\frac{100^2\cdot (1.2+j7.5)}{13.8^2}=\frac{12000+j75000}{190.44}=63.01+j393.82$$
+
+        @L2
+        $$Z=1.6+j10\Omega$$
+        $$P_{loss}=\frac{100^2\cdot (1.6+j10)}{13.8^2}=\frac{16000+j100000}{190.44}=84.02+j525.1$$
+
+        @L3
+        $$3.2+j20\Omega$$
+        $$P_{loss}=\frac{100^2\cdot (3.2+j20)}{13.8^2}=\frac{32000+j200000}{190.44}=168.03+j1050.2$$
+
+        @L4
+        $$1.2+j7.5\Omega$$
+        $$P_{loss}=\frac{100^2\cdot (1.2+j7.5)}{13.8^2}=\frac{12000+j75000}{190.44}=63.01+j393.82$$
+        
+        @L5
+        $$4+j25\Omega$$
+        $$P_{loss}=\frac{100^2\cdot (4+j25)}{13.8^2}=\frac{40000+j250000}{190.44}=210.04+j1312.75$$
         
         % \subsubsection{Compute Generated Power}
         
