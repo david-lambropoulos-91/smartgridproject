@@ -1,14 +1,14 @@
 \select@language {english}
 \contentsline {figure}{\numberline {1}{\ignorespaces Original Circuit\relax }}{1}{figure.caption.4}
 \contentsline {figure}{\numberline {2}{\ignorespaces Per-Unit One-line Diagram\relax }}{5}{figure.caption.6}
-\contentsline {figure}{\numberline {3}{\ignorespaces PowerWorld Diagram\relax }}{6}{figure.caption.7}
-\contentsline {figure}{\numberline {4}{\ignorespaces PowerWorld Diagram\relax }}{7}{figure.caption.8}
-\contentsline {figure}{\numberline {5}{\ignorespaces PowerWorld Diagram\relax }}{7}{figure.caption.9}
-\contentsline {figure}{\numberline {6}{\ignorespaces PowerWorld Diagram\relax }}{8}{figure.caption.10}
-\contentsline {figure}{\numberline {7}{\ignorespaces PowerWorld Diagram\relax }}{8}{figure.caption.11}
-\contentsline {figure}{\numberline {8}{\ignorespaces PowerWorld Diagram\relax }}{9}{figure.caption.12}
-\contentsline {figure}{\numberline {9}{\ignorespaces PowerWorld Diagram\relax }}{9}{figure.caption.13}
-\contentsline {figure}{\numberline {10}{\ignorespaces PowerWorld Diagram\relax }}{10}{figure.caption.14}
+\contentsline {figure}{\numberline {3}{\ignorespaces PowerWorld Diagram - Full Powerflow Analysis\relax }}{6}{figure.caption.7}
+\contentsline {figure}{\numberline {4}{\ignorespaces PowerWorld Diagram - Bus 1 after Newton-Raphson\relax }}{7}{figure.caption.8}
+\contentsline {figure}{\numberline {5}{\ignorespaces PowerWorld Diagram - Bus 2 after Newton-Raphson\relax }}{7}{figure.caption.9}
+\contentsline {figure}{\numberline {6}{\ignorespaces PowerWorld Diagram - Bus 3 after Newton-Raphson\relax }}{8}{figure.caption.10}
+\contentsline {figure}{\numberline {7}{\ignorespaces PowerWorld Diagram - Bus 4 after Newton-Raphson\relax }}{8}{figure.caption.11}
+\contentsline {figure}{\numberline {8}{\ignorespaces PowerWorld Diagram - Bus 5 after Newton-Raphson\relax }}{9}{figure.caption.12}
+\contentsline {figure}{\numberline {9}{\ignorespaces PowerWorld Diagram - Bus 6 after Newton-Raphson\relax }}{9}{figure.caption.13}
+\contentsline {figure}{\numberline {10}{\ignorespaces PowerWorld Diagram - Bus 7 after Newton-Raphson\relax }}{10}{figure.caption.14}
 \contentsline {figure}{\numberline {11}{\ignorespaces PowerWorld Diagram - Buses\relax }}{10}{figure.caption.15}
 \contentsline {figure}{\numberline {12}{\ignorespaces PowerWorld Diagram - Branch Inputs\relax }}{11}{figure.caption.16}
 \contentsline {figure}{\numberline {13}{\ignorespaces PowerWorld Diagram - Generators\relax }}{11}{figure.caption.17}
