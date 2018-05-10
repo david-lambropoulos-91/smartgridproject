@@ -3,12 +3,6 @@
 \contentsline {section}{\numberline {2}Detailed Solution}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}Calculating Per Unit Values}{2}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Per-Unit One-Line Model}{5}{subsubsection.2.1.1}
-\contentsline {subsection}{\numberline {2.2}Compute All Bus Voltages}{5}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Newton-Raphson Method}{6}{subsubsection.2.2.1}
-\contentsline {subsection}{\numberline {2.3}Compute All Power Values}{6}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Compute Power Flow on Each Line (In/Out)}{6}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}Compute Line Losses}{6}{subsubsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2.3.3}Compute Generated Power}{6}{subsubsection.2.3.3}
-\contentsline {section}{\numberline {3}Conclusions}{7}{section.3}
-\contentsline {section}{Appendices}{9}{section*.9}
-\contentsline {section}{\numberline {A}Code}{9}{Appendix.1.A}
+\contentsline {subsection}{\numberline {2.2}Compute All Bus Voltages}{6}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Newton-Raphson Method}{7}{subsubsection.2.2.1}
+\contentsline {section}{\numberline {3}Conclusions}{15}{section.3}

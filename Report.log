@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.6.8)  9 MAY 2018 02:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.6.8)  10 MAY 2018 08:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1052,7 +1052,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 156.
 (c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<images/rulogo.jpg, id=59, 171.64125pt x 171.64125pt>
+<images/rulogo.jpg, id=35, 171.64125pt x 171.64125pt>
 File: images/rulogo.jpg Graphic file (type jpg)
  <use images/rulogo.jpg>
 Package pdftex.def Info: images/rulogo.jpg used on input line 156.
@@ -1075,7 +1075,7 @@ Package pdftex.def Info: images/rulogo.jpg used on input line 156.
 \openout8 = `Report.lot'.
 
  [4]
-<images/problemCircuit.png, id=107, 513.41812pt x 286.06876pt>
+<images/problemCircuit.png, id=109, 513.41812pt x 286.06876pt>
 File: images/problemCircuit.png Graphic file (type png)
 
 <use images/problemCircuit.png>
@@ -1139,63 +1139,207 @@ een already used, duplicate ignored
                    \relax 
 l.330 ...VA}{(230kV)^2}\right)=\boxed{0.04786pu}$$
                                                    [4]
-<images/oneLine.png, id=132, 858.20625pt x 220.57407pt>
+<images/oneLine.png, id=134, 858.20625pt x 220.57407pt>
 File: images/oneLine.png Graphic file (type png)
 
 <use images/oneLine.png>
 Package pdftex.def Info: images/oneLine.png used on input line 341.
 (pdftex.def)             Requested size: 429.10208pt x 110.28676pt.
-File: images/oneLine.png Graphic file (type png)
- <use images/oneLine.png>
-Package pdftex.def Info: images/oneLine.png used on input line 347.
-(pdftex.def)             Requested size: 429.10208pt x 110.28676pt.
+
+<images/PowerWorld.png, id=135, 1929.2075pt x 1104.125pt>
+File: images/PowerWorld.png Graphic file (type png)
+
+<use images/PowerWorld.png>
+Package pdftex.def Info: images/PowerWorld.png used on input line 347.
+(pdftex.def)             Requested size: 578.76672pt x 331.24005pt.
 
 (c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
 (c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
 (c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
 (c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
 [5 <./images/oneLine.png>]
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-[6]
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-[7] (./Report.bbl
+<images/PowerWorldBus1.png, id=141, 2055.68pt x 1056.94875pt>
+File: images/PowerWorldBus1.png Graphic file (type png)
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+<use images/PowerWorldBus1.png>
+Package pdftex.def Info: images/PowerWorldBus1.png used on input line 353.
+(pdftex.def)             Requested size: 513.91875pt x 264.23654pt.
 
-) (c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf
-) (c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf
-) (c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf
-) (c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf
-) [8] 
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[6 <./images/PowerWorld.png (PNG copy)>]
+<images/PowerWorldBus2.png, id=146, 2055.68pt x 1057.9525pt>
+File: images/PowerWorldBus2.png Graphic file (type png)
+
+<use images/PowerWorldBus2.png>
+Package pdftex.def Info: images/PowerWorldBus2.png used on input line 358.
+(pdftex.def)             Requested size: 513.91875pt x 264.48747pt.
+
+<images/PowerWorldBus3.png, id=147, 2055.68pt x 1037.8775pt>
+File: images/PowerWorldBus3.png Graphic file (type png)
+
+<use images/PowerWorldBus3.png>
+Package pdftex.def Info: images/PowerWorldBus3.png used on input line 363.
+(pdftex.def)             Requested size: 513.91875pt x 259.46873pt.
+
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[7 <./images/PowerWorldBus1.png (PNG copy)> <./images/PowerWorldBus2.png (PNG c
+opy)>] <images/PowerWorldBus4.png, id=152, 2055.68pt x 1056.94875pt>
+File: images/PowerWorldBus4.png Graphic file (type png)
+
+<use images/PowerWorldBus4.png>
+Package pdftex.def Info: images/PowerWorldBus4.png used on input line 368.
+(pdftex.def)             Requested size: 513.91875pt x 264.23654pt.
+
+<images/PowerWorldBus5.png, id=153, 2055.68pt x 1048.91875pt>
+File: images/PowerWorldBus5.png Graphic file (type png)
+
+<use images/PowerWorldBus5.png>
+Package pdftex.def Info: images/PowerWorldBus5.png used on input line 373.
+(pdftex.def)             Requested size: 513.91875pt x 262.22903pt.
+
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[8 <./images/PowerWorldBus3.png (PNG copy)> <./images/PowerWorldBus4.png (PNG c
+opy)>] <images/PowerWorldBus6.png, id=158, 2055.68pt x 1020.81375pt>
+File: images/PowerWorldBus6.png Graphic file (type png)
+
+<use images/PowerWorldBus6.png>
+Package pdftex.def Info: images/PowerWorldBus6.png used on input line 378.
+(pdftex.def)             Requested size: 513.91875pt x 255.2028pt.
+
+<images/PowerWorldBus7.png, id=159, 2055.68pt x 1017.8025pt>
+File: images/PowerWorldBus7.png Graphic file (type png)
+
+<use images/PowerWorldBus7.png>
+Package pdftex.def Info: images/PowerWorldBus7.png used on input line 383.
+(pdftex.def)             Requested size: 513.91875pt x 254.45pt.
+
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[9 <./images/PowerWorldBus5.png (PNG copy)> <./images/PowerWorldBus6.png (PNG c
+opy)>] <images/PowerWorldTable1.png, id=165, 1559.8275pt x 861.2175pt>
+File: images/PowerWorldTable1.png Graphic file (type png)
+
+<use images/PowerWorldTable1.png>
+Package pdftex.def Info: images/PowerWorldTable1.png used on input line 388.
+(pdftex.def)             Requested size: 467.95187pt x 258.36723pt.
+
+<images/PowerWorldTable2.png, id=166, 1563.8425pt x 861.2175pt>
+File: images/PowerWorldTable2.png Graphic file (type png)
+
+<use images/PowerWorldTable2.png>
+Package pdftex.def Info: images/PowerWorldTable2.png used on input line 392.
+(pdftex.def)             Requested size: 469.15637pt x 258.36723pt.
+
+<images/PowerWorldTable3.png, id=167, 1573.88pt x 513.92pt>
+File: images/PowerWorldTable3.png Graphic file (type png)
+
+<use images/PowerWorldTable3.png>
+Package pdftex.def Info: images/PowerWorldTable3.png used on input line 396.
+(pdftex.def)             Requested size: 472.16765pt x 154.17719pt.
+
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[10 <./images/PowerWorldBus7.png (PNG copy)> <./images/PowerWorldTable1.png (PN
+G copy)>] <images/PowerWorldTable4.png, id=173, 1182.4175pt x 241.90375pt>
+File: images/PowerWorldTable4.png Graphic file (type png)
+
+<use images/PowerWorldTable4.png>
+Package pdftex.def Info: images/PowerWorldTable4.png used on input line 400.
+(pdftex.def)             Requested size: 354.72798pt x 72.57167pt.
+
+<images/PowerWorldTable5.png, id=174, 1174.3875pt x 858.20625pt>
+File: images/PowerWorldTable5.png Graphic file (type png)
+
+<use images/PowerWorldTable5.png>
+Package pdftex.def Info: images/PowerWorldTable5.png used on input line 404.
+(pdftex.def)             Requested size: 352.31897pt x 257.46387pt.
+
+<images/PowerWorldTable6.png, id=175, 1563.8425pt x 885.3075pt>
+File: images/PowerWorldTable6.png Graphic file (type png)
+
+<use images/PowerWorldTable6.png>
+Package pdftex.def Info: images/PowerWorldTable6.png used on input line 408.
+(pdftex.def)             Requested size: 469.15637pt x 265.5943pt.
+
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[11 <./images/PowerWorldTable2.png (PNG copy)> <./images/PowerWorldTable3.png (
+PNG copy)> <./images/PowerWorldTable4.png (PNG copy)>]
+<images/PowerWorldTable7.png, id=180, 1569.865pt x 872.25874pt>
+File: images/PowerWorldTable7.png Graphic file (type png)
+
+<use images/PowerWorldTable7.png>
+Package pdftex.def Info: images/PowerWorldTable7.png used on input line 412.
+(pdftex.def)             Requested size: 470.96313pt x 261.67964pt.
+
+<images/PowerWorldTable8.png, id=181, 1944.26375pt x 882.29625pt>
+File: images/PowerWorldTable8.png Graphic file (type png)
+
+<use images/PowerWorldTable8.png>
+Package pdftex.def Info: images/PowerWorldTable8.png used on input line 416.
+(pdftex.def)             Requested size: 583.28363pt x 264.69092pt.
+
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[12 <./images/PowerWorldTable5.png (PNG copy)> <./images/PowerWorldTable6.png (
+PNG copy)>] <images/PowerWorldTable9.png, id=186, 1964.33875pt x 954.56625pt>
+File: images/PowerWorldTable9.png Graphic file (type png)
+
+<use images/PowerWorldTable9.png>
+Package pdftex.def Info: images/PowerWorldTable9.png used on input line 420.
+(pdftex.def)             Requested size: 589.30618pt x 286.37209pt.
+
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[13 <./images/PowerWorldTable7.png (PNG copy)> <./images/PowerWorldTable8.png (
+PNG copy)>]
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[14 <./images/PowerWorldTable9.png (PNG copy)>]
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
+[15] 
 AED: lastpage setting LastPage
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-(c:/texlive/2017/texmf-dist/tex/generic/pgfornament/vectorian/vectorian88.pgf)
-[9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
- (./Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 445.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 445.
+(./Report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 445.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 445.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 75A49A86780D759A062435BB15E7F275;900.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
+(rerunfilecheck)             Checksum: FF69DBCBFFE8182B04B4357A768AA4F3;474.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 445.
  ) 
 Here is how much of TeX's memory you used:
- 24588 strings out of 492995
- 455627 string characters out of 6136403
- 663092 words of memory out of 5000000
- 27542 multiletter control sequences out of 15000+600000
- 13817 words of font info for 50 fonts, out of 8000000 for 9000
+ 24749 strings out of 492995
+ 462389 string characters out of 6136403
+ 663096 words of memory out of 5000000
+ 27626 multiletter control sequences out of 15000+600000
+ 13211 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,16n,94p,460b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,16n,94p,460b,614s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2017
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2017/texmf-di
@@ -1210,10 +1354,10 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist
 e1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmti12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
 symbols/msam10.pfb>
-Output written on Report.pdf (13 pages, 598381 bytes).
+Output written on Report.pdf (19 pages, 1907721 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
