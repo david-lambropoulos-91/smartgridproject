@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Case Study/Problem Formulation}{}% 1
+\BOOKMARK [1][-]{section.2}{Detailed Solution}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Calculating Per Unit Values}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Per-Unit One-Line Model}{subsection.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Compute All Bus Voltages}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Newton-Raphson Method}{subsection.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Compute All Power Values}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Compute Power Flow on Each Line \(In/Out\)}{subsection.2.3}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Compute Line Losses}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Compute Generated Power}{subsection.2.3}% 10
+\BOOKMARK [1][-]{section.3}{Conclusions}{}% 11
+\BOOKMARK [1][-]{section*.9}{Appendices}{}% 12
+\BOOKMARK [1][-]{Appendix.1.A}{Code}{}% 13
